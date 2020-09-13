@@ -15,8 +15,3 @@ docker run -p 8080:8080 -t rmuhamedgaliev/solvery-java-docker:latest
 ./gradlew bootBuildImage --imageName=rmuhamedgaliev/solvery-java-docker
 docker run -p 8080:8080 -t rmuhamedgaliev/solvery-java-docker:latest
 ```
-
-## Build project in docker container
-
-```bash
-```
